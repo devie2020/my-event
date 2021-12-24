@@ -1,0 +1,19 @@
+{
+	"name": "arithmetic",
+	"version": "1.0.0",
+	"description": "",
+	"main": "main.js",
+	"scripts": {
+		"dev": "vite"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"prettier": "^2.5.1",
+		"vite": "^2.7.3"
+	},
+	"dependencies": {
+		"@types/events": "^3.0.0",
+		"events": "^3.3.0"
+	}
+}
